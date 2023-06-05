@@ -1,0 +1,194 @@
+.Navbar
+{
+    /* background-color: rgba(72,133,189,255); */
+    background-color: black;
+    text-align: center;
+    display: flex;
+    height: 80px;
+}
+
+.firmname
+{
+    display: flex;
+    background-color: black;
+    width: 300px;
+}
+
+.logo
+{
+    height:100px;
+    margin-top: 0px;
+    margin-left: 30px;
+}
+.Seva
+{
+    font-weight: 900;
+    width: 60px;
+    font-size: 20px;
+    color:rgba(13,104,194,255);
+}
+
+.Home
+{
+    border: none;
+    height:30px;
+    /* background-color: rgba(72,133,189,255); */
+    background-color: transparent;
+    font-size: 22px;
+    color: white;
+    margin-top: 27px;
+    margin-left:95px;
+    transition: 0.7s;
+}
+
+.Home:hover
+{
+    outline-color: transparent;
+    outline-style:solid;
+    box-shadow: 0 0 0 2px white;
+    cursor: pointer;
+    transition: 0.7s;
+}
+.About
+{
+    color: white;
+    border:none;
+    height:30px;
+    margin-left: 40px;
+    /* background-color: rgba(72,133,189,255); */
+    background-color: transparent;
+    margin-top: 27px;
+    font-size: 22px;
+    transition: 0.7s;
+}
+
+.About:hover
+{
+    outline-color: transparent;
+    outline-style:solid;
+    box-shadow: 0 0 0 2px white;
+    cursor: pointer;
+    transition: 0.7s;
+}
+
+.Customer-Portal
+{
+    color: white;
+    border: none;
+    margin-left: 40px;
+    height: 30px;
+    margin-top: 27px;
+    /* background-color: rgba(72,133,189,255); */
+    background-color: transparent;
+    font-size: 22px;
+    transition: 0.7s;
+    width: 200px;
+}
+
+.Customer-Portal:hover{
+    outline-color: transparent;
+    outline-style:solid;
+    box-shadow: 0 0 0 2px white;
+    cursor: pointer;
+    transition: 0.7s;
+}
+.Products
+{
+    
+    color: white;
+    border:none;
+    margin-left: 40px;
+    height: 30px;
+    margin-top: 27px;
+    /* background-color: rgba(72,133,189,255); */
+    background-color: transparent;
+    font-size: 22px;
+    transition: 0.7s;
+}
+
+.Products:hover{
+    cursor: pointer;
+    outline-color: transparent;
+    outline-style:solid;
+    box-shadow: 0 0 0 2px white;
+    transition: 0.7s;
+}
+.Contact
+{
+    color: white;
+    border: none;
+    height:30px;
+    width:150px;
+    margin-top: 27px;
+    margin-left: 40px;
+    /* background-color: rgba(72,133,189,255); */
+    background-color: transparent;
+    font-size: 22px;
+    transition: 0.7s;
+}
+.Contact:hover
+{
+    cursor: pointer;
+    transition: 0.7s;
+    outline-color: transparent;
+    outline-style:solid;
+    box-shadow: 0 0 0 2px white;
+}
+.search
+{
+    height:25px;
+    /* background-color: rgba(72,133,189,255); */
+    background-color: transparent;
+    border: black;
+    margin-top: 27px;
+    width: 150px;
+    font-weight: bold;
+    color:white;
+}
+
+.search-support
+{
+
+    margin-left: 40px;
+    width: 250px;
+    display: flex;
+    border: black;
+}
+
+#icon
+{
+    color: white;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.social
+{
+    margin-left:95px;
+    display: flex;
+    width:300px;
+    background-color: black;
+    justify-content: space-around;
+}
+
+#instagram
+{
+    
+    margin-top: 10px;
+    color: rgba(13,104,194,255);
+}
+
+#linkedin
+{
+    margin-top: 10px;
+
+    color: rgba(13,104,194,255);
+}
+
+#twitter
+{
+    margin-top: 10px;
+
+    color: rgba(13,104,194,255);
+    margin-right: 25px;
+}

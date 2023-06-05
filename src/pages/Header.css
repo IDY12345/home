@@ -1,0 +1,95 @@
+/* .header
+{
+    display:flex;
+    background-color: black;
+    height:80px;
+    justify-content: space-around;
+}
+
+.firmname
+{
+
+    display: flex;
+}
+
+.logo
+{
+    height:100px;
+    margin-top: 0px;
+}
+.Seva
+{
+    font-weight: 900;
+    width: 60px;
+    font-size: 20px;
+    color:rgba(13,104,194,255);
+}
+
+.Number
+{
+    margin-top: 20px;
+    margin-left: 15px;
+    font-size: 21px;
+    color:rgba(13,104,194,255);
+}
+.mail
+{
+    margin-top: 0px;
+    display: flex;
+}
+
+#mail
+{
+    color:rgba(13,104,194,255);
+    margin-top: 0px;
+    margin-top: 22px;
+}
+
+.address
+{
+    margin-left: 15px;
+    font-size: 22px;
+    margin-top: 32px;
+    color:rgba(13,104,194,255);
+}
+
+.Phone-info
+{
+    margin-top: 15px;
+    
+    display: flex;
+}
+
+#icon1
+{
+    color:rgba(13,104,194,255);
+    margin-top: 10px;
+}
+
+.social
+{
+    display: flex;
+    
+}
+
+#instagram
+{
+    margin-left: 25px;
+    margin-top: 20px;
+    color: rgba(13,104,194,255);
+}
+
+#linkedin
+{
+    margin-top: 20px;
+    margin-left:25px;
+    color: rgba(13,104,194,255);
+}
+
+#twitter
+{
+    margin-top: 20px;
+    margin-left: 25px;
+    color: rgba(13,104,194,255);
+}
+ */
